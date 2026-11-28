@@ -1,5 +1,3 @@
-// PDA Postfix - Kelompok 9 (Orang 4)
-// Aturan δ(state, input, pop) = (state', push); stack: top = indeks 0
 const R = [
   ['q0', 'opd', 'Z0', 'q0', ['X', 'Z0']],  // 1
   ['q0', 'opd', 'X',  'q0', ['X', 'X']],   // 2

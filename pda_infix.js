@@ -1,5 +1,3 @@
-// PDA Pengenal Ekspresi Infix — Kelompok 9
-
 function isOperand(c)  { return /[a-zA-Z0-9]/.test(c); }
 function isOperator(c) { return '+-*/^'.includes(c); }
 
